@@ -1,0 +1,1 @@
+<?php header('location: view/v_accueil.php'); ?>
